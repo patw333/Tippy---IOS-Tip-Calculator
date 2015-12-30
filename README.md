@@ -38,7 +38,7 @@ The last time I used a Mac was in elementary school, so that took some getting u
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2015 Patrick Wang
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
